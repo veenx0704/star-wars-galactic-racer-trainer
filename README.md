@@ -1,9 +1,23 @@
-# STAR WARS: Galactic Racer trainer +54: boost, credits, podracer parts, tracks [v1.0.0]
+# STAR WARS: Galactic Racer Trainer (+54) — Free Download 2026
 
-[Download EN](https://moggydaytrainer.com/en/f/star-wars-galactic-racer-trainer) · [Скачать RU](https://moggydaytrainer.com/f/star-wars-galactic-racer-trainer) · [STAR WARS: Galactic Racer hub](https://moggydaytrainer.com/g/star-wars-galactic-racer) · [STAR WARS: Galactic Racer news](https://moggydaytrainer.com/g/star-wars-galactic-racer/news)
+<p align="left">
+  <a href="https://moggydaytrainer.com/en/f/star-wars-galactic-racer-trainer"><img alt="Download English trainer" src="https://img.shields.io/badge/⬇%20Download-English%20trainer-2563eb?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/f/star-wars-galactic-racer-trainer"><img alt="Russian page" src="https://img.shields.io/badge/Русская%20страница-1d4ed8?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/zh/f/star-wars-galactic-racer-trainer"><img alt="Chinese page" src="https://img.shields.io/badge/中文%20页面-1e40af?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/g/star-wars-galactic-racer"><img alt="Game hub" src="https://img.shields.io/badge/STAR%20WARS:%20Galactic%20Racer%20hub-334155?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/games"><img alt="All trainers" src="https://img.shields.io/badge/MoggyDay%20catalog-0f766e?style=for-the-badge"></a>
+</p>
 
 
-MoggyDay keeps one stable URL for STAR WARS: Galactic Racer: [EN](https://moggydaytrainer.com/en/f/star-wars-galactic-racer-trainer) / [RU](https://moggydaytrainer.com/f/star-wars-galactic-racer-trainer). Build v1.0.0 advertises +54 — credits, podracer parts, tracks in TrainerHub. The option list matches the launcher pack.. This README is expanded from that listing so `STAR WARS: Galactic Racer trainer 2026` has a real page with screenshots instead of a one-line stub.
+MoggyDay hosts the official **STAR WARS: Galactic Racer** trainer for Windows (v1.0.0, **+54** toggles). This repository is a public mirror: game context, screenshots, and the full feature list. The download button lives only on [moggydaytrainer.com](https://moggydaytrainer.com) — there is **no `.exe` in git**.
+
+## About STAR WARS: Galactic Racer
+
+STAR WARS: Galactic Racer is a PC game. MoggyDay documents a dedicated trainer with live toggles for single-player and offline sessions. It is listed in the MoggyDay catalog as a Windows title (Steam app 4078430).
+
+## About the MoggyDay trainer
+
+MoggyDay keeps one stable URL for STAR WARS: Galactic Racer: [EN](https://moggydaytrainer.com/en/f/star-wars-galactic-racer-trainer) / [RU](https://moggydaytrainer.com/f/star-wars-galactic-racer-trainer). Build v1.0.0 advertises +54 — Infinite Boost, Infinite Fuel, Infinite Shield, No Redline Damage, No Crash Wipeout. This README is expanded from that listing so `STAR WARS: Galactic Racer trainer 2026` has a real page with screenshots instead of a one-line stub.
 
 ## Screenshots
 
@@ -19,87 +33,139 @@ Shots from the live [STAR WARS: Galactic Racer trainer page](https://moggydaytra
 
 [![STAR WARS: Galactic Racer options 3](https://moggydaytrainer.com/media/shots/hub-star-wars-galactic-racer/fn-3.png)](https://moggydaytrainer.com/en/f/star-wars-galactic-racer-trainer)
 
-## Who this is for
+## Trainer features (+54)
 
-For STAR WARS: Galactic Racer on Windows. The trainer is a separate process next to the game, not a Steam workshop mod. Read the option names on the download page before you enable everything at once.
+The table matches the live launcher pack. Hotkeys may change after a patch — confirm on the [English trainer page](https://moggydaytrainer.com/en/f/star-wars-galactic-racer-trainer).
 
-## Live URLs
+| # | Feature | Category | Hotkey | Type |
+|---:|---|---|---|---|
+| 1 | Infinite Boost | Boost | Num 1 | Toggle |
+| 2 | Infinite Fuel | Boost | Num 2 | Toggle |
+| 3 | Infinite Shield | Boost | Num 3 | Toggle |
+| 4 | No Redline Damage | Boost | Num 4 | Toggle |
+| 5 | No Crash Wipeout | Race | Num 5 | Toggle |
+| 6 | No AI Catch-up | Race | Num 6 | Toggle |
+| 7 | Always First Place | Race | Num 7 | Toggle |
+| 8 | Instant Race Win | Race | Num 8 | Toggle |
+| 9 | Freeze Race Timer | Race | Num 9 | Toggle |
+| 10 | Perfect Handling | Vehicle | Num 0 | Toggle |
+| 11 | Max Engine | Vehicle | Num . | Toggle |
+| 12 | Super Speed | Vehicle | Num * | Toggle |
+| 13 | Edit Boost | Boost | Num + | Value |
+| 14 | Boost Multiplier | Boost | Num - | Value |
+| 15 | Infinite Credits | Economy | Ctrl+Num 1 | Toggle |
+| 16 | Edit Credits | Economy | Ctrl+Num 2 | Value |
+| 17 | Credits Multiplier | Economy | Ctrl+Num 3 | Value |
+| 18 | Max Reputation | Progress | Ctrl+Num 4 | Toggle |
+| 19 | Instant League Complete | Progress | Ctrl+Num 5 | Toggle |
+| 20 | Unlock All Podracers | Unlocks | Ctrl+Num 6 | Toggle |
+| 21 | Unlock All Landspeeders | Unlocks | Ctrl+Num 7 | Toggle |
+| 22 | Unlock All Speeder Bikes | Unlocks | Ctrl+Num 8 | Toggle |
+| 23 | Unlock All Skimspeeders | Unlocks | Ctrl+Num 9 | Toggle |
+| 24 | Unlock All Parts | Unlocks | Ctrl+Num 0 | Toggle |
+| 25 | Unlock All Tracks | Unlocks | Ctrl+Num . | Toggle |
+| 26 | Unlock All Tours | Unlocks | Ctrl+Num * | Toggle |
+| 27 | Unlock All Racing Styles | Unlocks | Ctrl+Num + | Toggle |
+| 28 | Unlock All Gadgets | Unlocks | Ctrl+Num - | Toggle |
+| 29 | Unlock All Ally Perks | Unlocks | Alt+Num 1 | Toggle |
+| 30 | Unlock Arcade Mode | Unlocks | Alt+Num 2 | Toggle |
+| 31 | Unlock Time Trials | Unlocks | Alt+Num 3 | Toggle |
+| 32 | Free Parts Shop | Economy | Alt+Num 4 | Toggle |
+| 33 | No Scrap Cost | Economy | Alt+Num 5 | Toggle |
+| 34 | Infinite Ramjet | Boost | Alt+Num 6 | Toggle |
+| 35 | Always Shield Ready | Boost | Alt+Num 7 | Toggle |
+| 36 | Night / Day Unlock | World | Alt+Num 8 | Toggle |
+| 37 | Reverse Tracks Unlock | World | Alt+Num 9 | Toggle |
+| 38 | Freeze Time | Time | Alt+Num 0 | Toggle |
+| 39 | Set Game Speed | Time | Alt+Num . | Speed |
+| 40 | Slow Motion | Time | Alt+Num * | Toggle |
+| 41 | Ghost Rival Off | Race | Alt+Num + | Toggle |
+| 42 | No Tour Risk | Race | Alt+Num - | Toggle |
+| 43 | Max Vehicle Build | Vehicle | Shift+F1 | Toggle |
+| 44 | Instant Part Unlock | Progress | Shift+F2 | Toggle |
+| 45 | Skip To Next Planet | Progress | Shift+F3 | Toggle |
+| 46 | Unlock All Scenarios | Unlocks | Shift+F4 | Toggle |
+| 47 | Infinite Continues | Race | Shift+F5 | Toggle |
+| 48 | Save Position | Misc | Shift+F6 | Toggle |
+| 49 | Load Position | Misc | Shift+F7 | Toggle |
+| 50 | Unlock All Liveries | Unlocks | Shift+F8 | Toggle |
+| 51 | No Collision Damage | Vehicle | Shift+F9 | Toggle |
+| 52 | Perfect Start | Race | Shift+F10 | Toggle |
+| 53 | Always Gold Medal | Race | Shift+F11 | Toggle |
+| 54 | Unlock Story Outpost | Unlocks | Shift+F12 | Toggle |
 
-| Page | URL |
-|---|---|
-| English trainer | [https://moggydaytrainer.com/en/f/star-wars-galactic-racer-trainer](https://moggydaytrainer.com/en/f/star-wars-galactic-racer-trainer) |
-| Русский трейнер | [https://moggydaytrainer.com/f/star-wars-galactic-racer-trainer](https://moggydaytrainer.com/f/star-wars-galactic-racer-trainer) |
-| Game hub | [https://moggydaytrainer.com/g/star-wars-galactic-racer](https://moggydaytrainer.com/g/star-wars-galactic-racer) |
-| Trainers tab | [https://moggydaytrainer.com/g/star-wars-galactic-racer/trainers](https://moggydaytrainer.com/g/star-wars-galactic-racer/trainers) |
-| News | [https://moggydaytrainer.com/g/star-wars-galactic-racer/news](https://moggydaytrainer.com/g/star-wars-galactic-racer/news) |
-| Catalog | [https://moggydaytrainer.com/games](https://moggydaytrainer.com/games) |
+### Tips
 
-## STAR WARS: Galactic Racer trainer v1.0.0: +54 options
+- **Infinite Boost** — Usually the first toggle people enable on a STAR WARS: Galactic Racer trainer.
+- **Infinite Fuel** — Check this after every STAR WARS: Galactic Racer patch — values often shift.
+- **Infinite Shield** — Leave it off if you only want a mild resource boost.
+- **No Redline Damage** — Pairs with the other combat toggles on the STAR WARS: Galactic Racer page.
+- **No Crash Wipeout** — Use it to skip a grind, then turn it back off.
+- **No AI Catch-up** — Read the live hotkey next to this name on MoggyDay.
+- **Always First Place** — Game-specific: the STAR WARS: Galactic Racer listing explains the exact effect.
+- **Instant Race Win** — If two options overlap, enable one and test in a safe save.
+- **Freeze Race Timer** — Keep a screenshot of your preferred set from the site page.
+- **Perfect Handling** — Not every option is safe in every mission — test first.
+- **Max Engine** — The RU page uses the same toggle order.
+- **Super Speed** — Ask in comments on the trainer page if a name is unclear.
+- **Edit Boost** — Usually the first toggle people enable on a STAR WARS: Galactic Racer trainer.
+- **Boost Multiplier** — Check this after every STAR WARS: Galactic Racer patch — values often shift.
+- **Infinite Credits** — Leave it off if you only want a mild resource boost.
+- **Edit Credits** — Pairs with the other combat toggles on the STAR WARS: Galactic Racer page.
+- **Credits Multiplier** — Use it to skip a grind, then turn it back off.
+- **Max Reputation** — Read the live hotkey next to this name on MoggyDay.
+- **Instant League Complete** — Game-specific: the STAR WARS: Galactic Racer listing explains the exact effect.
+- **Unlock All Podracers** — If two options overlap, enable one and test in a safe save.
+- **Unlock All Landspeeders** — Keep a screenshot of your preferred set from the site page.
+- **Unlock All Speeder Bikes** — Not every option is safe in every mission — test first.
+- **Unlock All Skimspeeders** — The RU page uses the same toggle order.
+- **Unlock All Parts** — Ask in comments on the trainer page if a name is unclear.
+- **Unlock All Tracks** — Usually the first toggle people enable on a STAR WARS: Galactic Racer trainer.
+- **Unlock All Tours** — Check this after every STAR WARS: Galactic Racer patch — values often shift.
+- **Unlock All Racing Styles** — Leave it off if you only want a mild resource boost.
+- **Unlock All Gadgets** — Pairs with the other combat toggles on the STAR WARS: Galactic Racer page.
+- **Unlock All Ally Perks** — Use it to skip a grind, then turn it back off.
+- **Unlock Arcade Mode** — Read the live hotkey next to this name on MoggyDay.
+- **Unlock Time Trials** — Game-specific: the STAR WARS: Galactic Racer listing explains the exact effect.
+- **Free Parts Shop** — If two options overlap, enable one and test in a safe save.
+- **No Scrap Cost** — Keep a screenshot of your preferred set from the site page.
+- **Infinite Ramjet** — Not every option is safe in every mission — test first.
+- **Always Shield Ready** — The RU page uses the same toggle order.
+- **Night / Day Unlock** — Ask in comments on the trainer page if a name is unclear.
+- **Reverse Tracks Unlock** — Usually the first toggle people enable on a STAR WARS: Galactic Racer trainer.
+- **Freeze Time** — Check this after every STAR WARS: Galactic Racer patch — values often shift.
+- **Set Game Speed** — Leave it off if you only want a mild resource boost.
+- **Slow Motion** — Pairs with the other combat toggles on the STAR WARS: Galactic Racer page.
+- **Ghost Rival Off** — Use it to skip a grind, then turn it back off.
+- **No Tour Risk** — Read the live hotkey next to this name on MoggyDay.
+- **Max Vehicle Build** — Game-specific: the STAR WARS: Galactic Racer listing explains the exact effect.
+- **Instant Part Unlock** — If two options overlap, enable one and test in a safe save.
+- **Skip To Next Planet** — Keep a screenshot of your preferred set from the site page.
+- **Unlock All Scenarios** — Not every option is safe in every mission — test first.
+- **Infinite Continues** — The RU page uses the same toggle order.
+- **Save Position** — Ask in comments on the trainer page if a name is unclear.
+- **Load Position** — Usually the first toggle people enable on a STAR WARS: Galactic Racer trainer.
+- **Unlock All Liveries** — Check this after every STAR WARS: Galactic Racer patch — values often shift.
+- **No Collision Damage** — Leave it off if you only want a mild resource boost.
+- **Perfect Start** — Pairs with the other combat toggles on the STAR WARS: Galactic Racer page.
+- **Always Gold Medal** — Use it to skip a grind, then turn it back off.
+- **Unlock Story Outpost** — Read the live hotkey next to this name on MoggyDay.
 
-Copy taken from the current MoggyDay description so this page does not drift from the live listing.
+## Download
 
-| # | Option |
-|---|---|
-| 1 | credits |
-| 2 | podracer parts |
-| 3 | tracks in TrainerHub. The option list matches the launcher pack. |
+1. Open **[STAR WARS: Galactic Racer trainer +54: boost, credits, podracer parts, tracks [v1.0.0]](https://moggydaytrainer.com/en/f/star-wars-galactic-racer-trainer)** (or [Russian listing](https://moggydaytrainer.com/f/star-wars-galactic-racer-trainer), [Chinese listing](https://moggydaytrainer.com/zh/f/star-wars-galactic-racer-trainer)).
+2. Confirm the domain is **moggydaytrainer.com**.
+3. Use the primary **Free download** button on that page.
+4. After a STAR WARS: Galactic Racer update, reload the same URL — the slug `/f/star-wars-galactic-racer-trainer` never moves.
 
-### What those toggles are for
+## Install (Windows)
 
-- **credits** — Usually the first toggle people enable on a STAR WARS: Galactic Racer trainer.
-- **podracer parts** — Check this after every STAR WARS: Galactic Racer patch — values often shift.
-- **tracks in TrainerHub. The option list matches the launcher pack.** — Leave it off if you only want a mild resource boost.
+1. Close STAR WARS: Galactic Racer before trying a new build.
+2. Run only files from MoggyDay for `star-wars-galactic-racer-trainer`.
+3. Enable a few toggles first, not the entire +54 list.
+4. Keep a backup save before resource or progression edits.
 
-The full hotkey grid is only on the [download page](https://moggydaytrainer.com/en/f/star-wars-galactic-racer-trainer). GitHub stays a summary.
-
-## How to download
-
-1. Open **[STAR WARS: Galactic Racer trainer +54: boost, credits, podracer parts, tracks [v1.0.0]](https://moggydaytrainer.com/en/f/star-wars-galactic-racer-trainer)** or **[STAR WARS: Galactic Racer «Трейнер +54: нитро, кредиты, поды, детали» [v1.0.0]](https://moggydaytrainer.com/f/star-wars-galactic-racer-trainer)**.
-2. Confirm the host is **moggydaytrainer.com**.
-3. Use the primary download button. Ignore zips that copy this README.
-4. After a STAR WARS: Galactic Racer patch, reload the same URL. We do not publish binaries as GitHub Releases.
-
-Wrong paths: cloning this repo, a random `Release` asset, a Telegram file named `star-wars-galactic-racer-trainer.exe`.
-
-## What the screenshots show
-
-The first image is the STAR WARS: Galactic Racer cover used on MoggyDay. The strip after it is taken from the live trainer card: the page header, the option list, and extra function shots. If a thumbnail here 404s, the site still has the file — we hotlink `/media/shots/` so Google sees the same bytes as the listing. Click any image to open [https://moggydaytrainer.com/en/f/star-wars-galactic-racer-trainer](https://moggydaytrainer.com/en/f/star-wars-galactic-racer-trainer).
-
-## Install notes (Windows)
-
-1. Close STAR WARS: Galactic Racer before the first run of a new trainer build.
-2. Unpack or run only what MoggyDay gave you for `star-wars-galactic-racer-trainer`.
-3. Start the trainer, then start STAR WARS: Galactic Racer (or the order printed on the live page if it differs).
-4. Enable one or two toggles, not the whole +54 list at once.
-5. Make a spare save. God mode and resource edits are hard to undo if you overwrite the only slot.
-
-Antivirus sometimes flags trainers. That is normal for this file class. Download again from the same URL if the hash on the site changes.
-
-## If something does not work
-
-- The game patched and the v1.0.0 heading is older than the STAR WARS: Galactic Racer build you launched — wait for MoggyDay to bump the page.
-- You used a bookmark that is not `/f/star-wars-galactic-racer-trainer` — switch to the URLs in the table above.
-- Only the DLL or only the EXE was copied from a friend — get the pair from the site.
-- Overlay or other injectors are running — turn them off and retry.
-
-## After a STAR WARS: Galactic Racer update
-
-Trainers break when the game moves values. MoggyDay bumps the H1 version when a new pair is ready. Keep this bookmark. If a screenshot here looks older than the site, trust the site — we refresh this mirror after the listing, not before.
-
-## RU
-
-**STAR WARS: Galactic Racer «Трейнер +54: нитро, кредиты, поды, детали» [v1.0.0]**
-
-Скачать трейнер STAR WARS: Galactic Racer +54 от MoggyDay: нитро, кредиты, поды, детали в TrainerHub. Официальная сборка, список функций совпадает с паком лаунчера.
-
-Скриншоты и опции те же, что на английской карточке. Скачивать нужно отсюда:
-
-- Трейнер: https://moggydaytrainer.com/f/star-wars-galactic-racer-trainer
-- Хаб STAR WARS: Galactic Racer: https://moggydaytrainer.com/g/star-wars-galactic-racer
-- Новости: https://moggydaytrainer.com/g/star-wars-galactic-racer/news
-- Каталог: https://moggydaytrainer.com/games
-
-Файл не лежит в git. Если кто-то прислал «тот же трейнер» с другого домена — не ставь.
+## FAQ
 
 ## FAQ
 
@@ -118,19 +184,23 @@ Yes — [STAR WARS: Galactic Racer «Трейнер +54: нитро, креди�
 **Why GitHub at all?**
 So `STAR WARS: Galactic Racer trainer` search has a documented page with screenshots that points at the real download, instead of a dead file host.
 
-## Search notes
 
-`star wars: galactic racer trainer`, `star wars: galactic racer трейнер`, `galactic racer trainer`, `galactic racer трейнер`, `скачать трейнер galactic racer`, `galactic racer cheats`, `galactic racer hack`, `galactic racer trainer download`, `trainer download`, `скачать трейнер`, `moggyday trainer`, `trainerhub moggyday`, `free trainer download`, `2026`, `steam 4078430`, `официальный трейнер`
+## Search terms (English)
 
-We keep tags aligned with the live page. This is documentation, not a keyword dump.
+`trainer download`, `trainerhub moggyday`, `скачать трейнер`, `free trainer download`, `2026`, `moggyday trainer`, `трейнер moggyday`, `официальный трейнер`, `star wars: galactic racer trainer`, `star wars: galactic racer трейнер`, `galactic racer trainer`, `galactic racer трейнер`, `скачать трейнер galactic racer`, `galactic racer cheats`
+
+## Other languages
+
+- Russian copy: [ru.md](ru.md) · live page [https://moggydaytrainer.com/f/star-wars-galactic-racer-trainer](https://moggydaytrainer.com/f/star-wars-galactic-racer-trainer)
+- Chinese page: [https://moggydaytrainer.com/zh/f/star-wars-galactic-racer-trainer](https://moggydaytrainer.com/zh/f/star-wars-galactic-racer-trainer)
 
 ## Other MoggyDay trainers
 
-- ![Broken Arrow cover](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604270/6b662a8d43880116f843ff401cf052b5bc2c0973/library_capsule_2x.jpg) [Broken Arrow trainer +40: command points, units, recon and ammo [v1.0.0]](https://moggydaytrainer.com/en/f/broken-arrow-trainer) · [RU](https://moggydaytrainer.com/f/broken-arrow-trainer)
-- ![The Alters cover](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601570/d30e4e6a4f274b201a48011933460364e7a3b0a4/library_600x900_2x.jpg) [The Alters trainer +45: base resources, radiation, alters and time [v1.0.0]](https://moggydaytrainer.com/en/f/the-alters-trainer) · [RU](https://moggydaytrainer.com/f/the-alters-trainer)
-- ![ACE COMBAT 8: WINGS OF THEVE cover](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/a1fb5685d2c140309d5549af1ddc725a7114d889/library_capsule_2x.jpg) [ACE COMBAT 8: WINGS OF THEVE trainer +40: plane HP, missiles, special weapon and afterburner [v1.0.0]](https://moggydaytrainer.com/en/f/ace-combat-8-wings-of-theve-trainer) · [RU](https://moggydaytrainer.com/f/ace-combat-8-wings-of-theve-trainer)
-- ![Dragon's Dogma 2 cover](https://moggydaytrainer.com/media/covers/dragons-dogma-2-dark-arisen-bb7ad66ec5.jpg) [Dragon's Dogma 2 trainer +54: gold, rift crystals, pawns, vocations [v1.0.0]](https://moggydaytrainer.com/en/f/dragons-dogma-2-dark-arisen-trainer) · [RU](https://moggydaytrainer.com/f/dragons-dogma-2-dark-arisen-trainer)
+- [Sonic Racing: CrossWorlds trainer +54: boost / air, rings, red star rings, credits, wisp infinite [v1.0.0]](https://moggydaytrainer.com/en/f/sonic-racing-crossworlds-trainer) · [RU](https://moggydaytrainer.com/f/sonic-racing-crossworlds-trainer)
+- [Tiny Bookshop trainer +54: customer patience, shop atmosphere, money, stocked books, decor items [v1.0.0]](https://moggydaytrainer.com/en/f/tiny-bookshop-trainer) · [RU](https://moggydaytrainer.com/f/tiny-bookshop-trainer)
+- [Crime Simulator trainer +54: heat, stamina, cash, lockpicks, getaway car fuel [v1.0.0]](https://moggydaytrainer.com/en/f/crime-simulator-trainer) · [RU](https://moggydaytrainer.com/f/crime-simulator-trainer)
+- [inZOI trainer +72: hunger, hygiene, sleep, bathroom, fun, social [v1.0.0]](https://moggydaytrainer.com/en/f/inzoi-trainer) · [RU](https://moggydaytrainer.com/f/inzoi-trainer)
 
-## About
+## About this mirror
 
-Mirror maintained from `veenx0704` so `STAR WARS: Galactic Racer trainer` can cite a GitHub URL that **points at** [moggydaytrainer.com](https://moggydaytrainer.com). No executable is stored here.
+Maintained by `veenx0704` for SEO transparency. Canonical download: [https://moggydaytrainer.com/en/f/star-wars-galactic-racer-trainer](https://moggydaytrainer.com/en/f/star-wars-galactic-racer-trainer). Screenshots hotlink MoggyDay `/media/` assets.
