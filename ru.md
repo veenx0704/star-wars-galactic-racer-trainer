@@ -14,9 +14,60 @@
 
 ## Опции
 
-- credits
-- podracer parts
-- tracks in TrainerHub. The option list matches the launcher pack.
+- Infinite Boost
+- Infinite Fuel
+- Infinite Shield
+- No Redline Damage
+- No Crash Wipeout
+- No AI Catch-up
+- Always First Place
+- Instant Race Win
+- Freeze Race Timer
+- Perfect Handling
+- Max Engine
+- Super Speed
+- Edit Boost
+- Boost Multiplier
+- Infinite Credits
+- Edit Credits
+- Credits Multiplier
+- Max Reputation
+- Instant League Complete
+- Unlock All Podracers
+- Unlock All Landspeeders
+- Unlock All Speeder Bikes
+- Unlock All Skimspeeders
+- Unlock All Parts
+- Unlock All Tracks
+- Unlock All Tours
+- Unlock All Racing Styles
+- Unlock All Gadgets
+- Unlock All Ally Perks
+- Unlock Arcade Mode
+- Unlock Time Trials
+- Free Parts Shop
+- No Scrap Cost
+- Infinite Ramjet
+- Always Shield Ready
+- Night / Day Unlock
+- Reverse Tracks Unlock
+- Freeze Time
+- Set Game Speed
+- Slow Motion
+- Ghost Rival Off
+- No Tour Risk
+- Max Vehicle Build
+- Instant Part Unlock
+- Skip To Next Planet
+- Unlock All Scenarios
+- Infinite Continues
+- Save Position
+- Load Position
+- Unlock All Liveries
+- No Collision Damage
+- Perfect Start
+- Always Gold Medal
+- Unlock Story Outpost
 
 ## Куда жать
 
